@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 10vh;
+    text-align: center;
+    /*text-decoration-color: aliceblue;
+    background-image: url(images.jpg);
+    background-size: cover;
+    -webkit-background-clip: text ;
+    color: transparent;/*/
+
+}
+img{
+  align-content: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*opacity: 50%;*/
+    /*background: transparent;
+    background-color: ;*/
+  }
+  
+  li {
+    float: left ;
+  }
+  
+  li a {
+    display: block;
+    color: ghostwhite;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+  }
+  
+  li :hover{
+      background-color: black;
+  }
